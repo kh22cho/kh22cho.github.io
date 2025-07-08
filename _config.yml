@@ -9,8 +9,7 @@ version: 2
 name: Kanghee Cho
 title: Bioinformatician
 email: | 
-  kh22cho@gmail.com 
-  kh22cho@soongsil.ac.kr
+  kh22cho@gmail.com / kh22cho@soongsil.ac.kr
 website: https://kh22cho.github.io/
 
 # Dark Mode (true/false/never)
@@ -87,10 +86,10 @@ content:
   - title: Publications
     layout: list
     content:
-      - layout: text
+      - layout: left
         description: |
           <sub>*: Co-first author, †: Corresponding author</sub>
-      - layout: top-middle
+      - layout: left
         title: DeepDoublet identifies neighboring cell dependent gene expression
         sub_title: <em>Genomics & Informatics</em>, Vol. 22, 30, 18 Dec 2024
         description: |
