@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           At Soongsil University, I am currently pursuing an Integrated B.S./M.S. program in Life Science and Bioinformatics. The program combines interdisciplinary training in molecular biology, computer science, and statistics, with a focus on data-driven biomedical research.
 
-          During my undergraduate years, I served as the vice president of the Student Council in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a <mark><a href="https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems" target="_blank">Laboratory for Single Cell Systems</a></mark> under the supervision of Professor Junil Kim, where I contributed to projects involving scRNA-seq analysis.
+          During my undergraduate years, I served as the **vice president of the Student Council** in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a <mark>Laboratory for Single Cell Systems</mark> under the supervision of *Professor Junil Kim* [Homepage](https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems), where I contributed to projects involving scRNA-seq analysis.
           
           Currently, my master's research focuses on developing a computational tool for detecting multiplets in scRNA-seq data using latent Dirichlet allocation (LDA).
 
