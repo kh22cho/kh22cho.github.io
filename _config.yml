@@ -21,7 +21,7 @@ github_username:  kh22cho
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chokanghee25
+#instagram_username: 
 linkedin_username: kh22cho
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -48,9 +48,9 @@ linkedin_username: kh22cho
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Kanghee Cho, currently enrolled in the Integrated B.S./M.S. program in Bioinformatics at Soongsil University. I am passionate about data-driven biology, expecially in the areas of single-cell analysis and regulatory networks.
-  
-  I enjoy working with <mark>Python</mark>, and <mark>Linux</mark>-based environments. I'm also experienced handling large-scale biological datasets, and have managed lab server systems for over 2 years.
+  Hello, I'm Kanghee Cho, a master's student in Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of single-cell transcriptomics, gene regulatory networks, and computational method development.
+
+  I enjoy working with <mark>Python</mark>, <mark>R</mark>, and <mark>Linux</mark>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
 
 content:
   - title: Projects # Title for the section
@@ -90,15 +90,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Soongsil University
+        caption: 2021 - Present
+        sub_title: Integrated B.S./M.S. in Life Science and Bioinformatics
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Founded in 1897, Soongsil University is Korea's first modern university and has played a pioneering role in the development of education, science, and technology in Korea.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          At Soongsil University, I am currently pursuing an Integrated B.S./M.S. program in Life Science and Bioinformatics. The program combines interdisciplinary training in molecular biology, computer science, and statistics, with a focus on data-driven biomedical research.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my undergraduate years, I served as the vice president of the Student Council in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a <mark><a href="https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems" target="_blank">Laboratory for Single Cell Systems</a></mark> under the supervision of Professor Junil Kim, where I contributed to projects involving scRNA-seq analysis.
+          
+          Currently, my master's research focuses on developing a computational tool for detecting multiplets in scRNA-seq data using latent Dirichlet allocation (LDA).
+
 
   - title: A Little More About Me
     layout: text
