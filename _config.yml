@@ -8,7 +8,9 @@ version: 2
 # Personal info
 name: Kanghee Cho
 title: Bioinformatician
-email: kh22cho@gmail.com or kh22cho@soongsil.ac.kr
+email: | 
+  kh22cho@gmail.com 
+  kh22cho@soongsil.ac.kr
 website: https://kh22cho.github.io/
 
 # Dark Mode (true/false/never)
@@ -53,45 +55,12 @@ about_content: | # this will include new lines to allow paragraphs
   I enjoy working with <mark>Python</mark>, <mark>R</mark>, and <mark>Linux</mark>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Soongsil University
-        caption: 2021 - Present
+        caption: Mar. 2021 - Aug. 2026 (expected)
         sub_title: Integrated B.S./M.S. in Life Science and Bioinformatics
         quote: >
           Founded in 1897, Soongsil University is Korea's first modern university and has played a pioneering role in the development of education, science, and technology in Korea.
@@ -101,8 +70,33 @@ content:
           During my undergraduate years, I served as the **vice president of the Student Council** in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a <mark>Laboratory for Single Cell Systems</mark> under the supervision of *Professor Junil Kim* [Homepage](https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems), where I contributed to projects involving scRNA-seq analysis.
           
           Currently, my master's research focuses on developing a computational tool for detecting multiplets in scRNA-seq data using latent Dirichlet allocation (LDA).
+    
+  - title: Research Experience
+    layout: list
+    content:
+      - layout: left
+        title: Laboratory for Single Cell Systems
+        caption: Sept. 2023 - Present
+        sub_title: Research Assistant under Prof. Junil Kim
+        description: |
+          - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish; manuscript in preparation.
+          - Developing a computational tool to detect multiplets in scRNA-seq data and infer cell type combinations using LDA (latent Dirichlet allocation).
+          - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (Genomics & Informatics, 2024).
+          - Managed Linux server environments for collaborative research.
 
-
+  - title: Publications
+    layout: list
+    content:
+      - layout: text
+        description: |
+          <sub>*: Co-first author, †: Corresponding author</sub>
+      - layout: top-middle
+        title: DeepDoublet identifies neighboring cell dependent gene expression
+        sub_title: <em>Genomics & Informatics</em>, Vol. 22, 30, 18 Dec 2024
+        description: |
+          Linbu Liao*, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>
+          [Link](https://doi.org/10.1186/s44342-024-00031-2)
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -115,11 +109,11 @@ content:
       
       Here's a peaceful scene I encountered during one of my trips —  
       a quiet temple deep in the forest with a gentle sign that reads  
-      *그대 발길 돌리는 곳 (A place where your footsteps pause).*
-      
+      <em>그대 발길 돌리는 곳 (A place where your footsteps pause).</em>
+
       <p align="center">
         <img src="/images/temple_sign.jpeg" alt="Temple scene" title="그대 발길 돌리는 곳"
-          style="width: 300px; max-width: 90%; height: auto; border-radius: 8px;" />
+          style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;" />
       </p>
 
 # Footer
