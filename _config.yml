@@ -84,18 +84,13 @@ content:
           - Managed Linux server environments for collaborative research.
 
   - title: Publications
-    layout: list
-    content:
-      - layout: left
-        description: |
-          <sub>*: Co-first author, †: Corresponding author</sub>
-      - layout: left
-        title: DeepDoublet identifies neighboring cell dependent gene expression
-        sub_title: <em>Genomics & Informatics</em>, Vol. 22, 30, 18 Dec 2024
-        description: |
-          Linbu Liao, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>
-          [Link](https://doi.org/10.1186/s44342-024-00031-2)
-  
+    layout: text
+    content:  |
+      <sub>*: Co-first author, †: Corresponding author</sub>
+
+      Linbu Liao, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>
+      <strong>DeepDoublet identifies neighboring cell dependent gene expression</strong>, Genomics & Informatics</em>, Vol. 22, 30, 18 Dec 2024 [Link](https://doi.org/10.1186/s44342-024-00031-2)
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
