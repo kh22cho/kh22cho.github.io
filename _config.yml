@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kanghee Cho
-title: Integrated B.S./M.S. Program in Bioinformatics at Soongsil University
+title: Bioinformatician
 email: kh22cho@gmail.com or kh22cho@soongsil.ac.kr
 website: https://kh22cho.github.io/
 
@@ -15,17 +15,17 @@ website: https://kh22cho.github.io/
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: 
+github_username:  kh22cho
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: chokanghee25
+linkedin_username: kh22cho
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: 
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello, I'm Kanghee Cho, currently enrolled in the Integrated B.S./M.S. program in Bioinformatics at Soongsil University. I am passionate about data-driven biology, expecially in the areas of single-cell analysis and regulatory networks.
+  
+  I enjoy working with <mark>Python</mark>, and <mark>Linux</mark>-based environments. I'm also experienced handling large-scale biological datasets, and have managed lab server systems for over 2 years.
 
 content:
   - title: Projects # Title for the section
