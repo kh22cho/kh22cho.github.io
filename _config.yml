@@ -115,8 +115,12 @@ content:
       
       Here's a peaceful scene I encountered during one of my trips —  
       a quiet temple deep in the forest with a gentle sign that reads  
-      “그대 발길 돌리는 곳 (A place where your footsteps pause).”  
-      ![Temple scene](/images/temple_sign.jpeg "그대 발길 돌리는 곳")
+      *그대 발길 돌리는 곳 (A place where your footsteps pause).*
+      
+      <p align="center">
+        <img src="/images/temple_sign.jpeg" alt="Temple scene" title="그대 발길 돌리는 곳"
+          style="width: 300px; max-width: 90%; height: auto; border-radius: 8px;" />
+      </p>
 
 # Footer
 footer_show_references: true
