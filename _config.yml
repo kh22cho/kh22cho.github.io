@@ -49,7 +49,7 @@ linkedin_username: kh22cho
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Kanghee Cho, a master's student in Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of single-cell transcriptomics, gene regulatory networks, and computational method development.
+  Hello, I'm Kanghee Cho, a master's student in Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of single-cell transcriptomics, gene regulatory networks, and computational method development.
 
   I enjoy working with <mark>Python</mark>, <mark>R</mark>, and <mark>Linux</mark>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
 
@@ -88,8 +88,8 @@ content:
     content:  |
       <sub>*: Co-first author, †: Corresponding author</sub>
 
-      Linbu Liao, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>
-      <strong>DeepDoublet identifies neighboring cell dependent gene expression</strong>, <em>Genomics & Informatics</em>, Vol. 22, 30, 18 Dec 2024 [Link](https://doi.org/10.1186/s44342-024-00031-2)
+      Linbu Liao, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>.
+      DeepDoublet identifies neighboring cell dependent gene expression. <em>Genomics & Informatics</em>. 22, 30 (2024). [Link](https://doi.org/10.1186/s44342-024-00031-2)
       
   - title: A Little More About Me
     layout: text
