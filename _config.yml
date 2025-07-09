@@ -80,7 +80,7 @@ content:
         description: |
           - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish; manuscript in preparation.
           - Developing a computational tool to detect multiplets in scRNA-seq data and infer cell type combinations using LDA (latent Dirichlet allocation).
-          - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (Genomics & Informatics, 2024).
+          - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (<em>Genomics & Informatics</em>, 2024).
           - Managed Linux server environments for collaborative research.
 
   - title: Publications
