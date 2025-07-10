@@ -10,6 +10,7 @@ name: Kanghee Cho
 title: Bioinformatician
 email: | 
   kh22cho@gmail.com / kh22cho@soongsil.ac.kr
+Cell: +82-10-5475-7047
 website: https://kh22cho.github.io/
 
 # Dark Mode (true/false/never)
@@ -31,10 +32,10 @@ linkedin_username: kh22cho
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: Google Scholar
+  icon: fas fa-graduation-cap
+  url: https://scholar.google.com/citations?hl=ko&user=fpXE1oUAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
