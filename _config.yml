@@ -49,11 +49,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm <mark>Kanghee Cho</mark>, a master's student in Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of <strong>single-cell / spatial transcriptomics</strong>, gene regulatory networks, cancer genomics and applying machine learning to bioinformatics.
+  Hello, I'm <mark>Kanghee Cho</mark>, a master's student in the Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of <strong>single-cell and spatial transcriptomics</strong>, gene regulatory networks, cancer genomics and applying machine learning to bioinformatics.
 
   I enjoy working with <mark>Python</mark>, <mark>R</mark>, and <mark>Linux</mark>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
 
-  <br><sub><em>Last updated: July 10, 2025</em></sub>
+  <br><br><sub><em>Last updated: July 10, 2025</em></sub>
 
 content:
   - title: Education # Title for the section
@@ -68,7 +68,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           At Soongsil University, I am currently pursuing an Integrated B.S./M.S. program in Life Science and Bioinformatics. The program combines interdisciplinary training in molecular biology, computer science, and statistics, with a focus on data-driven biomedical research.
 
-          During my undergraduate years, I served as the **vice president of the Student Council** in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a Laboratory for Single Cell Systems under the supervision of <strong>Professor Junil Kim</strong> [Homepage](https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems), where I contributed to projects involving scRNA-seq analysis.
+          During my undergraduate years, I served as the **vice president of the Student Council** in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a Laboratory for Single Cell Systems under the supervision of <strong>Professor Junil Kim</strong> [(lab homepage))](https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems), where I contributed to projects involving scRNA-seq analysis.
           
           Currently, my master's research focuses on developing a computational tool for detecting multiplets in scRNA-seq data using latent Dirichlet allocation (LDA).
     
@@ -89,27 +89,27 @@ content:
     layout: list
     content:
       - layout: top
-        #title: Finding TNBC-specific driving events using scRNA-seq data
+        #title: 
         caption: Graduate Course 2025 Spring, Personal project at Analysis of Single Cell Genomics
         sub_title: Finding TNBC-specific driving events using scRNA-seq data
         description: |
           Identified key transcriptional regulators in triple-negative breast cancer using single-cell transcriptomics and pseudotime inference tool. 
       - layout: top
-        #title: Evaluation of Deconvolution tool Using Image Based Spatial Transcriptomics data
+        #title: 
         caption: Graduate Course 2024 Fall, Personal project at Analysis of Spatial Transcriptomics
         sub_title: Evaluation of Deconvolution tool Using Image Based Spatial Transcriptomics data
         description: |
-          Evaluated cell2location, which is a deconvolution tool, on Ovarian cancer CosMx data making visium-like(pseudo-visium) dataset. 
+          Evaluated cell2location, which is a deconvolution tool, on Ovarian cancer CosMx data, creating a Visium-like(pseudo-Visium) dataset. 
       - layout: top
-        #title: Configuration of a light LLM model
+        #title: 
         caption: 2025 Spring, Personal project inspired by a YouTube tutorial
         sub_title: Configuration of a light LLM model
         description: | 
-          Using the nobel Harry Potter, an LLM model that can run locally on MacBook.
+          Using the <em>novel<em> Harry Potter, an LLM model that can run locally on MacBook.
       - layout: top
-        #title: Predicting EPL winner Using Random Forest
+        #title: 
         caption: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
-        sub_title: Predicting EPL winner Using Random Forest
+        sub_title: Predicting EPL winner using a Random Forest model
         description: |
           Constructed feature using TransferMarket data and defined two major indicators. Trained a random forest model on past season data to predict the English Premier League champion.
 
