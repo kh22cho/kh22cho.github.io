@@ -88,28 +88,28 @@ content:
     content:
       - layout: top
         #title: Finding TNBC-specific driving events using scRNA-seq data
-        caption: Finding TNBC-specific driving events using scRNA-seq data 
-        sub_title: Graduate Course 2025 Spring, Personal project at Analysis of Single Cell Genomics
+        caption: Graduate Course 2025 Spring, Personal project at Analysis of Single Cell Genomics
+        sub_title: Finding TNBC-specific driving events using scRNA-seq data
         description: |
           Identified key transcriptional regulators in triple-negative breast cancer using single-cell transcriptomics and pseudotime inference tool. 
       - layout: top
         #title: Evaluation of Deconvolution tool Using Image Based Spatial Transcriptomics data
-        caption: Evaluation of Deconvolution tool Using Image Based Spatial Transcriptomics data
-        sub_title: Graduate Course 2024 Fall, Personal project at Analysis of Spatial Transcriptomics
+        caption: Graduate Course 2024 Fall, Personal project at Analysis of Spatial Transcriptomics
+        sub_title: Evaluation of Deconvolution tool Using Image Based Spatial Transcriptomics data
         description: |
           Evaluated cell2location, which is a deconvolution tool, on Ovarian cancer CosMx data making visium-like(pseudo-visium) dataset. 
       - layout: top
         #title: Configuration of a light LLM model
-        caption: Configuration of a light LLM model
-        sub_title: 2025 Spring, Personal project inspired by a YouTube tutorial
+        caption: 2025 Spring, Personal project inspired by a YouTube tutorial
+        sub_title: Configuration of a light LLM model
         description: | 
-          Using the nobel Harry Potter, an LLM model that can run locally on MacBook 
+          Using the nobel Harry Potter, an LLM model that can run locally on MacBook .
       - layout: top
         #title: Predicting EPL winner Using Random Forest
-        caption: Predicting EPL winner Using Random Forest
-        sub_title: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
+        caption: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
+        sub_title: Predicting EPL winner Using Random Forest
         description: |
-          Constructed feature using TransferMarket data and defined two major indicators. Trained a random forest model on past season data to predict the English Premier League champion
+          Constructed feature using TransferMarket data and defined two major indicators. Trained a random forest model on past season data to predict the English Premier League champion.
 
   - title: Publications
     layout: text
