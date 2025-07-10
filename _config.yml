@@ -49,9 +49,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Kanghee Cho, a master's student in Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of <strong>single-cell / spatial transcriptomics</strong>, gene regulatory networks, cancer genomics and applying machine learning to bioinformatics.
+  Hello, I'm <mark>Kanghee Cho</mark>, a master's student in Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of <strong>single-cell / spatial transcriptomics</strong>, gene regulatory networks, cancer genomics and applying machine learning to bioinformatics.
 
   I enjoy working with <mark>Python</mark>, <mark>R</mark>, and <mark>Linux</mark>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
+
+  <br><sub><em>Last updated: July 10, 2025</em></sub>
 
 content:
   - title: Education # Title for the section
@@ -103,7 +105,7 @@ content:
         caption: 2025 Spring, Personal project inspired by a YouTube tutorial
         sub_title: Configuration of a light LLM model
         description: | 
-          Using the nobel Harry Potter, an LLM model that can run locally on MacBook .
+          Using the nobel Harry Potter, an LLM model that can run locally on MacBook.
       - layout: top
         #title: Predicting EPL winner Using Random Forest
         caption: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
