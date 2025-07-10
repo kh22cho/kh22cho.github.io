@@ -10,7 +10,6 @@ name: Kanghee Cho
 title: Bioinformatician
 email: | 
   kh22cho@gmail.com / kh22cho@soongsil.ac.kr
-Cell: +82-10-5475-7047
 website: https://kh22cho.github.io/
 
 # Dark Mode (true/false/never)
@@ -50,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Kanghee Cho, a master's student in Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of single-cell transcriptomics, gene regulatory networks, and computational method development.
+  Hello, I'm Kanghee Cho, a master's student in Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of <strong>single-cell / spatial transcriptomics</strong>, gene regulatory networks, cancer genomics and applying machine learning to bioinformatics.
 
   I enjoy working with <mark>Python</mark>, <mark>R</mark>, and <mark>Linux</mark>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
 
@@ -82,7 +81,35 @@ content:
           - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish; manuscript in preparation.
           - Developing a computational tool to detect multiplets in scRNA-seq data and infer cell type combinations using LDA (latent Dirichlet allocation).
           - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (<em>Genomics & Informatics</em>, 2024).
-          - Managed Linux server environments for collaborative research.
+          - Managing Linux server environments for collaborative research.
+    
+  - title: Project
+    layout: list
+    content:
+      - layout: top
+        title: Finding TNBC-specific driving events using scRNA-seq data
+        caption: Graduate Course 2025 Spring 
+        sub_title: Personal project at Analysis of Single Cell Genomics
+        description: |
+          Identified key transcriptional regulators in triple-negative breast cancer using single-cell transcriptomics and pseudotime inference tool. 
+      - layout: top
+        title: Evaluation of Deconvolution tool Using Image Based Spatial Transcriptomics data
+        caption: Graduate Course 2024 Fall
+        sub_title: Personal project at Analysis of Spatial Transcriptomics
+        description: |
+          Evaluated cell2location, which is a deconvolution tool, on Ovarian cancer CosMx data making visium-like(pseudo-visium) dataset. 
+      - layout: top
+        title: Configuration of a light LLM model
+        caption: 2025 Spring
+        sub_title: Personal project inspired by a YouTube tutorial
+        description: | 
+          Using the nobel Harry Potter, an LLM model that can run locally on MacBook 
+      - layout: top
+        title: Predicting EPL winner Using Random Forest
+        caption: Undergraduate Course 2024 Spring
+        sub_title: Personal project at AI in Bioinformatics
+        description: |
+          Constructed feature using TransferMarket data and defined two major indicators. Trained a random forest model on past season data to predict the English Premier League champion
 
   - title: Publications
     layout: text
@@ -104,7 +131,7 @@ content:
       
       Here's a peaceful scene I encountered during one of my trips —  
       a quiet temple deep in the forest with a gentle sign that reads  
-      <em>그대 발길 돌리는 곳 (A place where your footsteps pause).</em>
+      <strong><em>그대 발길 돌리는 곳</em></strong> <em>(A place where your footsteps pause).</em>
 
       <p align="center">
         <img src="/images/temple_sign.jpeg" alt="Temple scene" title="그대 발길 돌리는 곳"
