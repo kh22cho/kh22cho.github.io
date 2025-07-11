@@ -115,7 +115,7 @@ content:
         caption: 2025 Spring, Personal project inspired by a YouTube tutorial
         sub_title: Configuration of a light LLM model
         description: | 
-          Using the <em>novel</em> Harry Potter, an LLM model that can run locally on MacBook.
+          Using the <em>novel</em> Harry Potter, an LLM model that can run locally on MacBook. https://github.com/kh22cho/LLM_configuration
       - layout: top
         #title: 
         caption: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
