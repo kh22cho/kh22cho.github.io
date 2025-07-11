@@ -154,8 +154,7 @@ footer_show_references: true
 references_title: Available upon request
 
 # Build settings
-# remote_theme: sproogen/resume-theme
-theme: resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
