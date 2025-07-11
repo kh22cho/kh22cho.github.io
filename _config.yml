@@ -88,12 +88,13 @@ content:
   - title: Project
     layout: list
     content:
-      - layout: top
-        #title: 
+      - layout: left
+        title: Finding TNBC-specific transition driving events using scRNA-seq data
         caption: Graduate Course 2025 Spring, Personal project at Analysis of Single Cell Genomics
-        sub_title: Finding TNBC-specific driving events using scRNA-seq data
+        # sub_title: Finding TNBC-specific transition driving events using scRNA-seq data
         description: |
           Identified key transcriptional regulators in triple-negative breast cancer using single-cell transcriptomics and pseudotime inference tool. 
+        images: images/Personal_project_at_Analysis_of_Single_Cell_Genomics.png
       - layout: top
         #title: 
         caption: Graduate Course 2024 Fall, Personal project at Analysis of Spatial Transcriptomics
