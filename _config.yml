@@ -121,7 +121,7 @@ content:
         caption: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
         sub_title: Predicting EPL winner using a Random Forest model
         description: |
-          Constructed feature using TransferMarket data and defined two major indicators. Trained a random forest model on past season data to predict the English Premier League champion.
+          Constructed feature using TransferMarket data and defined two major indicators. Trained a random forest model on past season data to predict the English Premier League champion. [[Link]](https://github.com/kh22cho/EPL-winner-prediction)
 
   - title: Publications
     layout: text
@@ -134,7 +134,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Outside of my academic and research work, I enjoy activities that keep me curious and balanced. [[Link]](https://github.com/kh22cho/EPL-winner-prediction)
+      Outside of my academic and research work, I enjoy activities that keep me curious and balanced.
 
       - Jogging and Running along the riverside.
       - Brewing coffee and exploring several beans.
