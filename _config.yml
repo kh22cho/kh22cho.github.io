@@ -51,9 +51,9 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm <mark>Kanghee Cho</mark>, a master's student in the Department of Bioinformatics at Soongsil University. I am passionate about data-driven biology, especially in the areas of <strong>single-cell and spatial transcriptomics</strong>, gene regulatory networks, cancer genomics and applying machine learning to bioinformatics.
 
-  I enjoy working with <mark>Python</mark>, <mark>R</mark>, and <mark>Linux</mark>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
+  I enjoy working with <strong>Python</strong>, <strong>R</strong>, and <strong>Linux</strong>-based environments. I'm experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
 
-  <br><br><sub><em>Last updated: July 10, 2025</em></sub>
+  <br><br><sub><em>Last updated: July 11, 2025</em></sub>
 
 content:
   - title: Education # Title for the section
@@ -68,7 +68,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           At Soongsil University, I am currently pursuing an Integrated B.S./M.S. program in Life Science and Bioinformatics. The program combines interdisciplinary training in molecular biology, computer science, and statistics, with a focus on data-driven biomedical research.
 
-          During my undergraduate years, I served as the **vice president of the Student Council** in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a Laboratory for Single Cell Systems under the supervision of <strong>Professor Junil Kim</strong> [(lab homepage))](https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems), where I contributed to projects involving scRNA-seq analysis.
+          During my undergraduate years, I served as the **vice president of the Student Council** in the Department of Chemistry, which helped me develop leadership and collaboration skills. Driven by my interest in data-driven biology, I joined a Laboratory for Single Cell Systems under the supervision of <strong>Professor Junil Kim</strong> [[lab homepage]](https://sites.google.com/site/neocaleb/laboratory-for-single-cell-systems), where I contributed to projects involving scRNA-seq analysis.
           
           Currently, my master's research focuses on developing a computational tool for detecting multiplets in scRNA-seq data using latent Dirichlet allocation (LDA).
     
@@ -83,7 +83,7 @@ content:
           - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish; manuscript in preparation.
           - Developing a computational tool to detect multiplets in scRNA-seq data and infer cell type combinations using LDA (latent Dirichlet allocation).
           - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (<em>Genomics & Informatics</em>, 2024).
-          - Managing Linux server environments for collaborative research.
+          - Managed Linux server environments for collaborative research.
     
   - title: Project
     layout: list
@@ -105,7 +105,7 @@ content:
         caption: 2025 Spring, Personal project inspired by a YouTube tutorial
         sub_title: Configuration of a light LLM model
         description: | 
-          Using the <em>novel<em> Harry Potter, an LLM model that can run locally on MacBook.
+          Using the <em>novel</em> Harry Potter, an LLM model that can run locally on MacBook.
       - layout: top
         #title: 
         caption: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
@@ -126,14 +126,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       Outside of my academic and research work, I enjoy activities that keep me curious and balanced.
 
-      - Jogging and Running along the riverside
-      - Brewing coffee and exploring several beans  
-      - Trying out new recipes and enjoying delicious food
-      - Traveling and discovering new places
+      - Jogging and Running along the riverside.
+      - Brewing coffee and exploring several beans.
+      - Trying out new recipes and enjoying delicious food.
+      - Traveling and discovering new places.
       
-      Here's a peaceful scene I encountered during one of my trips —  
-      a quiet temple deep in the forest with a gentle sign that reads  
-      <strong><em>그대 발길 돌리는 곳</em></strong> <em>(A place where your footsteps pause).</em>
+      <br>Here's a peaceful scene I encountered during one of my trips — a quiet temple deep in the forest with a gentle sign that reads  
+      <br><strong><em>그대 발길 돌리는 곳</em></strong> <em>(A place where your footsteps pause).</em>
 
       <p align="center">
         <img src="/images/temple_sign.jpeg" alt="Temple scene" title="그대 발길 돌리는 곳"
