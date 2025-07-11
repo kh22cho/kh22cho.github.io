@@ -115,7 +115,7 @@ content:
         caption: 2025 Spring, Personal project inspired by a YouTube tutorial
         sub_title: Configuration of a light LLM model
         description: | 
-          Using the <em>novel</em> Harry Potter, an LLM model that can run locally on MacBook. https://github.com/kh22cho/LLM_configuration
+          Using the <em>novel</em> Harry Potter, an LLM model that can run locally on MacBook. [[Link]](https://github.com/kh22cho/LLM_configuration)
       - layout: top
         #title: 
         caption: Undergraduate Course 2024 Spring, Personal project at AI in Bioinformatics
@@ -134,7 +134,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Outside of my academic and research work, I enjoy activities that keep me curious and balanced.
+      Outside of my academic and research work, I enjoy activities that keep me curious and balanced. [[Link]](https://github.com/kh22cho/EPL-winner-prediction)
 
       - Jogging and Running along the riverside.
       - Brewing coffee and exploring several beans.
