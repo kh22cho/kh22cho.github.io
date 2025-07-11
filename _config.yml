@@ -95,7 +95,7 @@ content:
         description: |
           Identified key transcriptional regulators in triple-negative breast cancer using single-cell transcriptomics and pseudotime inference tool. 
           <p align="center">
-            <img src="/images/Personal_project_at_Analysis_of_Single_Cell_Genomics.png"
+            <img src="/images/Project/Personal_project_at_Analysis_of_Single_Cell_Genomics.png"
               style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;" />
           </p>
 
@@ -105,6 +105,11 @@ content:
         sub_title: Evaluation of Deconvolution tool Using Image Based Spatial Transcriptomics data
         description: |
           Evaluated cell2location, which is a deconvolution tool, on Ovarian cancer CosMx data, creating a Visium-like(pseudo-Visium) dataset. 
+          <p align="center">
+            <img src="/images/Project/Personal_project_at_Analysis_of_Spatial_Transcriptomics.png"
+              style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;" />
+          </p>
+          
       - layout: top
         #title: 
         caption: 2025 Spring, Personal project inspired by a YouTube tutorial
