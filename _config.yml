@@ -9,7 +9,7 @@ version: 2
 name: Kanghee Cho
 title: Bioinformatician
 email: | 
-  kh22cho@gmail.com / kh22cho@soongsil.ac.kr
+  kh22cho@gmail.com
 website: https://kh22cho.github.io/
 
 # Dark Mode (true/false/never)
@@ -80,8 +80,8 @@ content:
         caption: Sept. 2023 - Present
         sub_title: Research Assistant under Prof. Junil Kim
         description: |
-          - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish; manuscript in preparation.
           - Developing a computational tool to detect multiplets in scRNA-seq data and infer cell type combinations using LDA (latent Dirichlet allocation).
+          - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish; submitted.
           - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (<em>Genomics & Informatics</em>, 2024).
           - Managing Linux server environments for collaborative research.
     
