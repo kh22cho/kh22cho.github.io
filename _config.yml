@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I enjoy working with <strong>Python</strong>, <strong>R</strong>, and <strong>Linux</strong>-based environments. I am experienced in handling large-scale biological datasets and have managed lab server systems for over 2 years to support collaborative research.
 
-  <br><br><sub><em>Last updated: Aug 1, 2025</em></sub>
+  <br><br><sub><em>Last updated: Jan 1, 2026</em></sub>
 
 content:
   - title: Education # Title for the section
@@ -81,13 +81,24 @@ content:
         sub_title: Research Assistant under Prof. Junil Kim
         description: |
           - Developing a computational tool to detect multiplets in scRNA-seq data and infer cell type combinations using LDA (latent Dirichlet allocation).
-          - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish; submitted.
+          - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish (<em>Scientific Reports</em>, 2025).
           - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (<em>Genomics & Informatics</em>, 2024).
           - Managing Linux server environments for collaborative research.
     
   - title: Project
     layout: list
     content:
+      - layout: top
+        # title: 
+        caption: Graduate Course 2025 Fall, Personal project at RNA-seq
+        sub_title: Finding Chromosome Global Expression Pattern using Fourier Transform
+        description: |
+          Analyzed chromosome-wide expression patterns in RNA-seq data using Fourier Transform to identify disease-specific expression trends. 
+          <p align="center">
+            <img src="/images/Project/Personal_project_at_Analysis_of_RNA_seq.png"
+              style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;" />
+          </p>
+        
       - layout: top
         # title: 
         caption: Graduate Course 2025 Spring, Personal project at Analysis of Single Cell Genomics
@@ -128,8 +139,11 @@ content:
     content:  |
       <sub>*: Co-first author, †: Corresponding author</sub>
 
+      Jiyeon Park<sup>*</sup>, <strong>Kanghee Cho<sub>*</sub></strong>, Jihwan Lee, Junil Kim<sup>†</sup>.
+      Controllability of the gene regulatory network in zebrafish embryogenesis. <em>Scientific Reports</em>. (2025). [[Link]](https://doi.org/10.1038/s41598-025-33869-9)
+
       Linbu Liao, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>.
-      DeepDoublet identifies neighboring cell dependent gene expression. <em>Genomics & Informatics</em>. 22, 30 (2024). [[Link]](https://doi.org/10.1186/s44342-024-00031-2)
+      DeepDoublet identifies neighboring cell dependent gene expression. <em>Genomics & Informatics</em>. (2024). [[Link]](https://doi.org/10.1186/s44342-024-00031-2)
       
   - title: A Little More About Me
     layout: text
