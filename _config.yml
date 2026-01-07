@@ -84,6 +84,17 @@ content:
           - Conducting research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish (<em>Scientific Reports</em>, 2025).
           - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (<em>Genomics & Informatics</em>, 2024).
           - Managing Linux server environments for collaborative research.
+
+  - title: Publications
+    layout: text
+    content:  |
+      <sub>*: Co-first author, †: Corresponding author</sub>
+
+      Jiyeon Park<sup>*</sup>, <strong>Kanghee Cho<sup>*</sup></strong>, Jihwan Lee, Junil Kim<sup>†</sup>.
+      Controllability of the gene regulatory network in zebrafish embryogenesis. <em>Scientific Reports</em>. (2025). [[Link]](https://doi.org/10.1038/s41598-025-33869-9)
+
+      Linbu Liao, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>.
+      DeepDoublet identifies neighboring cell dependent gene expression. <em>Genomics & Informatics</em>. (2024). [[Link]](https://doi.org/10.1186/s44342-024-00031-2)
     
   - title: Project
     layout: list
@@ -133,17 +144,6 @@ content:
         sub_title: Predicting EPL winner using a Random Forest model
         description: |
           Constructed feature using TransferMarket data and defined two major indicators. Trained a random forest model on past season data to predict the English Premier League champion. [[Link]](https://github.com/kh22cho/EPL-winner-prediction)
-
-  - title: Publications
-    layout: text
-    content:  |
-      <sub>*: Co-first author, †: Corresponding author</sub>
-
-      Jiyeon Park<sup>*</sup>, <strong>Kanghee Cho<sup>*</sup></strong>, Jihwan Lee, Junil Kim<sup>†</sup>.
-      Controllability of the gene regulatory network in zebrafish embryogenesis. <em>Scientific Reports</em>. (2025). [[Link]](https://doi.org/10.1038/s41598-025-33869-9)
-
-      Linbu Liao, Junyoung Kim, <strong>Kanghee Cho</strong>, Junil Kim, Byung-Kwan Lim<sup>†</sup>, Kyoung Jae Won<sup>†</sup>.
-      DeepDoublet identifies neighboring cell dependent gene expression. <em>Genomics & Informatics</em>. (2024). [[Link]](https://doi.org/10.1186/s44342-024-00031-2)
       
   - title: A Little More About Me
     layout: text
