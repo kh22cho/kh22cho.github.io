@@ -80,7 +80,7 @@ content:
         caption: Sept. 2023 - Present
         sub_title: Research Assistant under Prof. Junil Kim
         description: |
-          - Building a generative model that maps RNA/protein feature matrices to predicted cancer cell-line morphology images, leveraging Teton cyto-profiling multi-omics data (AVITI24).
+          - Building a generative model that maps RNA/protein feature matrices to predicted cancer cell-line morphology images, leveraging Teton cyto-profiling multi-omics data.
           - Investigating large-scale single-cell transcriptomic dynamics in South Korean COVID-19 patient cohorts, focusing on immune-state shifts across SARS-CoV-2 variants (~300 donors).
           - Conducted research on gene regulatory network (GRN) controllability using developmental scRNA-seq data from zebrafish (<em>Scientific Reports</em>, 2025).
           - Contributed to the Deepdoublet project by designing simulation pipelines and performing benchmarking analysis (<em>Genomics & Informatics</em>, 2024).
